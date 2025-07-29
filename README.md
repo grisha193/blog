@@ -41,5 +41,5 @@ docker-compose down Остановка контейнеров
 Работа с frontend 
 
 cd frontend
-npm install
+npm ci
 npm run start
